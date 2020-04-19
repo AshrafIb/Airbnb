@@ -6,7 +6,7 @@ Corresponding blog post exits to this analysis, in which the results are discuss
 https://medium.com/@ashraf.menteribrahim/neighbourhood-type-of-property-or-tv-which-factor-influences-airbnb-prices-in-seatle-5bd8fb0296ae
 
 # Data 
-Für diese Untersuchung habe ich die Airbnb Daten des Jahres 2016 für die Stadt Seatle genommen. Diese Grundlage umfasst mehr als 3000 Einträge und fast 100 features. 
+For this analysis I took the Airbnb data of the year 2016 for the city of Seatle. This basis contains more than 3000 entries and nearly 100 features. 
 
 # Steps of Analysis 
 1) Understanding the features </br>
